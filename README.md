@@ -1,3 +1,3 @@
 # weather
 
-First steps om accessing public weather and solar radiation databases
+First steps on accessing public weather and solar radiation databases
